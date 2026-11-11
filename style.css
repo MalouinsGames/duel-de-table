@@ -14,3 +14,5 @@ a { color: var(--link); }
 .card h2 { margin-top: 0; }
 .links a { display: block; padding: 14px 16px; margin: 10px 0; background: var(--panel); border: 1px solid var(--line); border-radius: 14px; text-decoration: none; color: var(--text); font-weight: 600; }
 footer { margin-top: 48px; color: var(--muted); font-size: 14px; }
+.logo { display: inline-block; margin-bottom: 20px; }
+.logo img { display: block; max-width: 100%; height: auto; }
